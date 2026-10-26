@@ -6089,6 +6089,12 @@
         "origin_base_url": "gta.neoseeker.com",
         "origin_content_path": "/wiki/",
         "origin_main_page": "Main_Page"
+      },
+      {
+        "origin": "Grand Theft Wiki",
+        "origin_base_url": "www.grandtheftwiki.com",
+        "origin_content_path": "/",
+        "origin_main_page": "Main_Page"
       }
     ],
     "destination": "GTA Wiki",
